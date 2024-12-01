@@ -1,0 +1,6 @@
+**/__pycache__/
+
+plots/
+models/
+objects_and_logs/
+cache/
